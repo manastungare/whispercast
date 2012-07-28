@@ -14,14 +14,19 @@
     "static",
     "whispercast"
   ],
-  "dependencies" : {
+  "dependencies": {
     "mime": "*",
     "path": "*",
-    "util": "*",
-    "process": "*"
+    "util": "*"
   },
-  "license": "MIT",
+  "license": "BSD",
   "engine": {
     "node": ">=0.6"
+  },
+  "main": "whispercast.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manastungare/whispercast.git"
   }
 }
