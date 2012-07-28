@@ -1,6 +1,6 @@
 # Whispercast
 
-## Serve media files from a local directory over HTTP
+## Serves media files and other static files from a source directory over HTTP
 
 Whispercast is a small Node.js script that serves local media files over HTTP.
 Use it to serve music & pictures to be consumed on a mobile device such as a phone.

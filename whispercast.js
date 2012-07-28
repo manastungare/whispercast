@@ -1,5 +1,5 @@
 /**
- * Whispercast: Serves media files from a local directory over HTTP.
+ * Whispercast: Serves media files and other static files from a source directory over HTTP.
  * Copyright 2012 Manas Tungare.
  * http://manas.tungare.name/publications/tungare_2009_best
  */

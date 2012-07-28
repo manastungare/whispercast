@@ -2,7 +2,7 @@
   "name": "whispercast",
   "version": "0.1.0",
   "author": "Manas Tungare <manas@tungare.name>",
-  "description": "Serves media files and other files from a source directory.",
+  "description": "Serves media files and other static files from a source directory over HTTP.",
   "scripts": {
     "start": "node whispercast.js"
   },
