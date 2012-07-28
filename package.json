@@ -1,0 +1,27 @@
+{
+  "name": "whispercast",
+  "version": "0.1.0",
+  "author": "Manas Tungare <manas@tungare.name>",
+  "description": "Serves media files and other files from a source directory.",
+  "scripts": {
+    "start": "node whispercast.js"
+  },
+  "preferGlobal": "true",
+  "keywords": [
+    "http",
+    "media",
+    "server",
+    "static",
+    "whispercast"
+  ],
+  "dependencies" : {
+    "mime": "*",
+    "path": "*",
+    "util": "*",
+    "process": "*"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.6"
+  }
+}
